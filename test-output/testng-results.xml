@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-10T00:18:38 IST" name="Default suite" finished-at="2024-02-10T00:18:40 IST" duration-ms="1771">
+  <suite started-at="2024-02-10T22:21:16 IST" name="Default suite" finished-at="2024-02-10T22:21:16 IST" duration-ms="467">
     <groups>
     </groups>
-    <test started-at="2024-02-10T00:18:38 IST" name="Default test" finished-at="2024-02-10T00:18:40 IST" duration-ms="1771">
-      <class name="Day4_ParsingJSonResponse.ParsingJsonResponse">
-        <test-method signature="parsingResponseWithSimpleApproach2()[pri:0, instance:Day4_ParsingJSonResponse.ParsingJsonResponse@156b88f5]" started-at="2024-02-10T00:18:38 IST" name="parsingResponseWithSimpleApproach2" finished-at="2024-02-10T00:18:40 IST" duration-ms="1721" status="PASS">
+    <test started-at="2024-02-10T22:21:16 IST" name="Default test" finished-at="2024-02-10T22:21:16 IST" duration-ms="467">
+      <class name="Day6_JSon_And_XML_Schema_Validation.SerializationAndDeserialization">
+        <test-method signature="convertJson2POJO()[pri:0, instance:Day6_JSon_And_XML_Schema_Validation.SerializationAndDeserialization@73e22a3d]" started-at="2024-02-10T22:21:16 IST" name="convertJson2POJO" finished-at="2024-02-10T22:21:16 IST" duration-ms="376" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- parsingResponseWithSimpleApproach2 -->
-      </class> <!-- Day4_ParsingJSonResponse.ParsingJsonResponse -->
+        </test-method> <!-- convertJson2POJO -->
+      </class> <!-- Day6_JSon_And_XML_Schema_Validation.SerializationAndDeserialization -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
